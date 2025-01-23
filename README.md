@@ -52,6 +52,12 @@ WebQueryRAG is a project that allows users to ask questions and get answers base
    Enter question: exit
    ```
 
+## Future Updates
+
+- Clean web interface with deployment.
+- Modularize the code.
+- Fixing issues from scraping data from websites.
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
